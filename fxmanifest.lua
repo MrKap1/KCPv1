@@ -1,5 +1,7 @@
--- Generated with DurtyClothTool
-
+author 'Kap'
+description 'Kap Custom Clothing Pack V1'
+version '1.0.0'
+lua54 'yes'
 fx_version 'cerulean'
 game { 'gta5' }
 
